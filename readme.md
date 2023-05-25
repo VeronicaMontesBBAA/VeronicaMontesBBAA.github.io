@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+# Animal Crossing
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -8,7 +8,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Animal Crossing 
 
 **Web:**   (url github.io)
 
