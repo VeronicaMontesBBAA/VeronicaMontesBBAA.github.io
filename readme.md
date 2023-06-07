@@ -14,87 +14,51 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Verónica Montes Sánchez-Jofré
 
-**Resumen** : 
+**Resumen** : Se trata de un pequño juego infantil con temática del famosos juego de Nintendo ANimla Crossing en el que el objetivo es hacer un picnic de cumpleaños.
 
 **Estilo/género:**  Juego
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : ![logo](https://github.com/VeronicaMontesBBAA/VeronicaMontesBBAA.github.io/assets/134588243/9bdce56e-a56c-420b-8e44-c20cf15d4f90)
 
-(insertar imágenes a resolucion de 100px alto)
+**Resolución:** 800x600px 
+**Probado en:**  Microsoft Edge
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
-
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
-
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 16,2MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 7/06/2023
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios**
 
-- Github:
-- Twitter
-- Instagram
+- Github: https://github.com/VeronicaMontesBBAA/VeronicaMontesBBAA.github.io
 
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
-### 2.1 Storyboard: 
+### 2.1. Esquema de navegación 
 
 
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
-
-
-
-### 2.2. Esquema de navegación 
-
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
-
-
-
-
-# 3. Metodología
-
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
 
 
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
-
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
-
+**Investigación de campo** 
+Como jugadora activa de videojuegos decidí utilizar como temática uno de mis favoritos, el Animal Crossing de Nintendo y aplicarlo a este proyecto.
 
 **Motivación de la propuesta** 
-
-Este  proyecto es interesante porque ... 
-
+Es interesante realmente ver lo que hay detrás de la creación de viodeojuegos o pequeñas animaciones sencillas, puesto que no siempre es tan fácil como parece. 
 
 
 **Publico / audiencia**
 
-- Orientado a 
-
-
-
+- Orientado a público infantil
 
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
+
 
 - Juego. 
 - Video 
@@ -105,42 +69,23 @@ Este  proyecto es interesante porque ...
 
 
 ### Etapa 3: Problemas identificados
-
-(que consideras que no  funciona correctamente y por qué )
+Tuve problemas en clase a la hora de hacer el minijuego y con audio, pero cuando lo cosulté con el profesorado un par de veces tampoco se econtró el problema o se me solucionó nada. Habrían bastantes cosas por mejorar. 
 
 
 
 # 4. Conclusiones 
-
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-
-
-
-
+He jugado a multiples videojuegos pero nunca he estado al otro lado. Ha sido interesante esta prácrica pero he tenido multiples dificultades, ya sean por los medios dados o por no ser una entendida en el ámbito. Aún así ver el resultado de otros compañeros ha sido y aprender otra herramienta nueva útil ha estado muy bien.
 
 
 # 5 Referencias 
 
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
-
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica:  Animal Crossing New Leaf (NINTENDO)
+* Imágenes:  Animal Crossing New Horizon (NINTENDO)
+* Tipografía : Arial Blank
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
 
-
-
-(imagen de la licencia, copiar y pegar aquí la correcta)
-
-https://creativecommons.org/licenses/?lang=es
-
-Mayo 2023
