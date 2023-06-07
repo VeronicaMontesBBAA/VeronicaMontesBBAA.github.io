@@ -14,7 +14,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Verónica Montes Sánchez-Jofré
 
-**Resumen** : Se trata de un pequño juego infantil con temática del famosos juego de Nintendo Animal Crossing en el que el objetivo es hacer un picnic de cumpleaños.
+**Resumen** : Se trata de un pequeño juego infantil con temática del famosos juego de Nintendo Animal Crossing en el que el objetivo es hacer un picnic de cumpleaños.
 
 **Estilo/género:**  Juego
 
