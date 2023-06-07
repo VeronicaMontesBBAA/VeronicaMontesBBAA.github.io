@@ -73,11 +73,11 @@ Tuve problemas en clase a la hora de hacer el minijuego y con audio, pero cuando
 
 
 
-# 4. Conclusiones 
+# 3. Conclusiones 
 He jugado a multiples videojuegos pero nunca he estado al otro lado. Ha sido interesante esta prácrica pero he tenido multiples dificultades, ya sean por los medios dados o por no ser una entendida en el ámbito. Aún así ver el resultado de otros compañeros ha sido y aprender otra herramienta nueva útil ha estado muy bien.
 
 
-# 5 Referencias 
+# 4 Referencias 
 
 **Recursos y materiales audiovisuales:**
 
